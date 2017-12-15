@@ -4,7 +4,7 @@
 
 #include "FastLED.h"
 
-#define NUM_LEDS 64 // Max LED count
+#define NUM_LEDS 20 // Max LED count
 #define LED_PIN 6 // arduino output pin
 #define GROUND_PIN 10
 #define BRIGHTNESS 255 // maximum brightness
