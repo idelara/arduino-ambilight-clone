@@ -6,3 +6,9 @@ There is a Step-by-step article that I am writing in order to provide guidance t
 Currently, the article is at ***80%***
 
 I will publish the Hackster.io link once it is done in this README file 👍
+
+# Ambilight Clone
+
+### Status: Still writing and revising tutorial in Hackster.io
+
+You can watch the video of the final result [here](https://youtu.be/jl_NW2UmopU)
